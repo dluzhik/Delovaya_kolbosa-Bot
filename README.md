@@ -1,2 +1,2 @@
 # Delovaya_kolbosa-Bot
-The first standalone bot code in Telegram
+The app is designed to control your monthly expenses and calculate your personal budget
